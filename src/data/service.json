@@ -1,0 +1,28 @@
+{
+    "service": {
+        "sectionTitle": "My Specialty",
+        "sectionTitleWaterText": "My Specialty",
+        "services": [
+            {
+                "serviceNo": "01",
+                "title": "Web Development",
+                "desc": "I provide the most responsive and functional website for companies and businesses worldwide."
+            },
+            {
+                "serviceNo": "02",
+                "title": "Apps Development",
+                "desc": "I provide the most responsive and functional apps for companies and businesses worldwide."
+            },
+            {
+                "serviceNo": "03",
+                "title": "Web Design",
+                "desc": "I provide the most responsive and functional web design for companies and businesses worldwide."
+            },
+            {
+                "serviceNo": "04",
+                "title": "Digital Marketing",
+                "desc": "I provide the most functional SEO with digital marketing for companies and businesses worldwide."
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "about": {
+        "sectionTitle": "About Me",
+        "sectionTitleWaterText": "About Me",
+        "aboutMe": "Hye, I'm Erik Jhonson I'm residing in this beautiful world. I create websites and mobile apps with great UX and UI design.I have done work with big companie  sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam tellusaodio tincidunt auctor a ornare odio. maiores itaque dolores distinctio, quisquam fugiat harum deleniti? Sint assumendaVeritatis unde laboriosam aspernatur vitae, architecto dolorum illum cupiditate laborum."
+    },
+    "socials": [
+        {
+            "icon": "fa fa-facebook",
+            "link": "https://www.facebook.com/"
+        },
+        {
+            "icon": "fa fa-twitter",
+            "link": "https://www.twitter.com/"
+        },
+        {
+            "icon": "fa fa-linkedin",
+            "link": "https://www.linked-in.com/"
+        },
+        {
+            "icon": "fa fa-instagram",
+            "link": "https://www.instagram.com/"
+        }
+    ],
+    "aboutDetails": {
+        "image": "/img/about/about.jpg",
+        "heading": "I'm Erik Jhonson, <br>UX/UI Designer & Developer",
+        "infoList": [
+            {
+                "label": "Name",
+                "info": "Erik Jhonson"
+            },
+            {
+                "label": "Email",
+                "info": "example@gmail.com"
+            },
+            {
+                "label": "Skype",
+                "info": "abcxyz"
+            },
+            {
+                "label": "Website",
+                "info": "example.com"
+            },
+            {
+                "label": "Job",
+                "info": "Freelancer"
+            },
+            {
+                "label": "Phone",
+                "info": "(123)4567890"
+            },
+            {
+                "label": "Address",
+                "info": "Inox Box 1546"
+            },
+            {
+                "label": "Nationality",
+                "info": "Australian"
+            }
+        ]
+    }
+}

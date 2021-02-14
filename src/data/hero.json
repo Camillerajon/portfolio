@@ -1,0 +1,8 @@
+{
+    "hero": {
+        "subTitle": "Hi, I'm <span>Erik Jhonson</span>",
+        "title": "Web Designer, Art Director & UI/UX Designer",
+        "bgImg": "/img/hero/world.png",
+        "image": "/img/hero/hero-thumb.png"
+    }
+}

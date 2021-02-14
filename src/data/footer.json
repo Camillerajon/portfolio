@@ -1,0 +1,25 @@
+{
+    "copyright": "Copyright @  2020. All Right Reserved",
+    "socials": [
+        {
+            "text": "facebook",
+            "link": "https://www.facebook.com"
+        },
+        {
+            "text": "twitter",
+            "link": "https://twitter.com"
+        },
+        {
+            "text": "instagram",
+            "link": "https://www.instagram.com"
+        },
+        {
+            "text": "linkedin",
+            "link": "https://www.linkedin.com"
+        },
+        {
+            "text": "pinterest",
+            "link": "https://pinterest.com"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "portfolio": {
+        "sectionTitle": "Project",
+        "sectionTitleWaterText": "Latest Work",
+        "portfolioGallery": [
+            {
+                "image": "/img/portfolio/portfolio-1.jpg",
+                "title": "Web Development",
+                "link": "/project-details",
+                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+            },
+            {
+                "image": "/img/portfolio/portfolio-2.jpg",
+                "title": "Web Design",
+                "link": "/project-details",
+                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+            },
+            {
+                "image": "/img/portfolio/portfolio-3.jpg",
+                "title": "Software Development",
+                "link": "/project-details",
+                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+            },
+            {
+                "image": "/img/portfolio/portfolio-4.jpg",
+                "title": "Digital Marketing",
+                "link": "/project-details",
+                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+            },
+            {
+                "image": "/img/portfolio/portfolio-5.jpg",
+                "title": "Portfolio Website",
+                "link": "/project-details",
+                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+            },
+            {
+                "image": "/img/portfolio/portfolio-6.jpg",
+                "title": "Business Website",
+                "link": "/project-details",
+                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+            },
+            {
+                "image": "/img/portfolio/portfolio-7.jpg",
+                "title": "Apps Development",
+                "link": "/project-details",
+                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+            },
+            {
+                "image": "/img/portfolio/portfolio-8.jpg",
+                "title": "Web Development",
+                "link": "/project-details",
+                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+            },
+            {
+                "image": "/img/portfolio/portfolio-9.jpg",
+                "title": "Web Design",
+                "link": "/project-details",
+                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+            },
+            {
+                "image": "/img/portfolio/portfolio-10.jpg",
+                "title": "Software Development",
+                "link": "/project-details",
+                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+            },
+            {
+                "image": "/img/portfolio/portfolio-1.jpg",
+                "title": "Digital Marketing",
+                "link": "/project-details",
+                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+            },
+            {
+                "image": "/img/portfolio/portfolio-3.jpg",
+                "title": "Web Agency",
+                "link": "/project-details",
+                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+            }
+        ]
+    },
+    "projectDetails": {
+        "projectDetailsTitle": "Web Development Project For Agency Business",
+        "projectDetailsDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem veritatis quo et ullam, ducimus itaque earum dolorem? Consectetur, et, aut. A, corporis officia eius dicta explicabo saepe nesciunt, mollitia minima, atque maiores optio cum. Atque amet unde impedit voluptate cumque distinctio minima, aspernatur nemo! Expedita in, numquam blanditiis ullam rem! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi cum fugit officia dolores eligendi, rem. Quibusdam quasi impedit perspiciatis iure maiores, eaque numquam doloremque, quo nam soluta itaque obcaecati tempore!.</br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore ex, nam adipisci dolores laborum earum. Unde cum, ut nostrum nihil alias, laudantium molestiae, vitae quidem dolorem officiis ipsum. Aliquid nemo consequuntur cupiditate delectus sapiente doloribus dolorem, at suscipit, non laudantium mollitia magnam repellat atque quia! Aut, veniam, nam. Ex porro optio facilis nostrum, qui ipsa?",
+        "images": [
+            {
+                "image": "/img/screenshot/screenshot-1.jpg"
+            },
+            {
+                "image": "/img/screenshot/screenshot-2.jpg"
+            },
+            {
+                "image": "/img/screenshot/screenshot-3.jpg"
+            }
+        ]
+    },
+    "projectDetailsInfo": {
+        "title": "Project Information",
+        "lists": [
+            {
+                "label": "Client",
+                "desc": "Dominic Due"
+            },
+            {
+                "label": "Location",
+                "desc": "Barlin, Jarmany"
+            },
+            {
+                "label": "Sector",
+                "desc": "South"
+            },
+            {
+                "label": "Year",
+                "desc": "2020"
+            },
+            {
+                "label": "Budget",
+                "desc": "$5000"
+            },
+            {
+                "label": "Website",
+                "desc": "www.example.com"
+            }
+        ]
+    }
+}
