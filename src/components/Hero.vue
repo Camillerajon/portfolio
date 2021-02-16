@@ -1,5 +1,5 @@
 <template>
-    <div class="hero hero__banner bg-color-dark">
+    <div class="hero hero__banner bg-color-grey">
         <div class="container custom-container">
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6 col-md-6">

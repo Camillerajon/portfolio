@@ -30,11 +30,7 @@
 
         <AboutDetails />
 
-        <Resume />
-
-        <Funfact />
-
-        <Testimonial />
+        <Resume />  
 
         <Footer />
 

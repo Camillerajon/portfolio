@@ -18,11 +18,11 @@
                         </div>
                         <div class="contact-info__list email">
                             <i class="fa fa-envelope"></i>
-                            <a href="mailto:example@gmail.com">example@gmail.com</a>
+                            <a href="mailto:example@gmail.com">camillerajon@gmail.com</a>
                         </div>
                         <div class="contact-info__list phone">
                             <i class="fa fa-phone"></i>
-                            <a href="tel:+00123456789">+00123456789</a>
+                            <a href="tel:+00123456789">+(33)770025487</a>
                         </div>
                     </div>
                 </div>

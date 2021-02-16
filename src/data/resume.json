@@ -5,19 +5,19 @@
         "heading": "Education",
         "resumes": [
             {
-                "insName": "HARVARD UNIVERSITY",
-                "position": "<span>2012</span> | BSC in Computer",
-                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+                "insName": "OPENCLASSROOMS",
+                "position": "<span>2020</span> |Frontend developer certificate",
+                "desc": "Javascript, vue.js, HTML, CSS, wordpress, Jquery. Evaluation, optimization and performances, responsive app.UI/UX design"
             },
             {
-                "insName": "OXFORD UNIVERSITY",
-                "position": "<span>2008</span> | Diploma In Computer",
-                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+                "insName": "EUROPEAN COMMUNICATION SCHOOL",
+                "position": "<span>2015</span> | Master degree in digital communication",
+                "desc": "Web project management/ design web site. Specifications and technical documentation"
             },
             {
-                "insName": "UNIVERSITY OF CALIFORNIA",
-                "position": "<span>2005</span> | A Lavel",
-                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+                "insName": " LYON JEAN MOULIN UNIVERSITY",
+                "position": "<span>2014</span> | Master degree in international relations",
+                "desc": "International law, crisis management, geopolitics"
             }
         ]
     },
@@ -25,19 +25,19 @@
         "heading": "Professional",
         "resumes": [
             {
-                "insName": "Intellect Soft",
-                "position": "<span>2018-Present</span> | Software Engineer",
-                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+                "insName": "FREELANCE",
+                "position": "<span>2020-Present</span> | Frontend web developer",
+                "desc": "Creation of websites and mobile apps with great UX and UI design"
             },
             {
-                "insName": "global management consulting",
-                "position": "<span>2016-2018</span> | Software Engineer",
-                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+                "insName": "FRENCH NATIONAL INSTITUTE FOR SUSTAINABLE DEVELOPMENT",
+                "position": "<span>2018-2020</span> | Communication project manager",
+                "desc": "Redesign of www.ird.fr site and drupal management, tests, user experience optimization, Drupal contributors trainer"
             },
             {
-                "insName": "Chinese multinational tech",
-                "position": "<span>2003-2016</span> | Web Developer",
-                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+                "insName": "OFFICE FOR ECONOMIC COOPERATION IN THE MEDITERRANEAN AND THE MIDDLE EAST",
+                "position": "<span>2015-2017</span> | Web Developer",
+                "desc": "Redesign of www.ocemo.org site, user policy, content transfert | PLUG IN management"
             }
         ]
     }

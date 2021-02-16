@@ -1,6 +1,8 @@
 
 .breadcrumb-area {
     padding-top: 220px;
+    padding-bottom: 30px;
+    background-color: #bbb;
     // responsive
     @media #{$md-device, $sm-device}{
         padding-top: 170px;

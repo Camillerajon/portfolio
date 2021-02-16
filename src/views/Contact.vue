@@ -9,8 +9,8 @@
                     <div class="col">
                         <div class="breadcrumb-wrap text-center">
                             <div class="section-title">
-                                <span class="water-text">Contact Us</span>
-                                <h1 class="title">Contact Us</h1>
+                                <span class="water-text">Contact Me</span>
+                                <h1 class="title">Contact Me</h1>
                             </div>
                             <nav aria-label="breadcrumb">
                                 <ul class="breadcrumb">
@@ -18,7 +18,7 @@
                                         <router-link to="/">Home</router-link>
                                     </li>
                                     <li class="breadcrumb-item active" aria-current="page">
-                                        Contact Us
+                                        Contact Me
                                     </li>
                                 </ul>
                             </nav>

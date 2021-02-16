@@ -1,8 +1,8 @@
 <template>
-    <div class="about-area section-padding">
+    <div class="about-area section-padding bg-color-blue">
         <div class="container">
             <div class="row">
-                <div class="col-xl-4 col-lg-5">
+                <div class="col-xl-3 col-lg-4">
                     <div class="about-image">
                         <v-lazy-image :src="data.aboutDetails.image" alt="author photo" />
                     </div>
@@ -19,7 +19,7 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div>''
                 </div>
             </div>
         </div>

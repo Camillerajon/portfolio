@@ -3,12 +3,17 @@
     overflow: hidden;
 }
 
-.bg-color-dark {
-    background-color: $bg-dark;
-}
-
 .bg-color-light {
     background-color: $bg-light;
+}
+
+.bg-color-grey{
+    background-color: #D3D3D3;
+
+}
+
+.bg-color-blue{
+    background-color: #048b9a;
 }
 
 .img-cover {
@@ -19,6 +24,7 @@
 
 .section-title {
     margin-bottom: 50px;
+    margin-top: 90px;
     position: relative;
     .water-text {
         font-size: 100px;
@@ -44,7 +50,7 @@
     .title {
         font-size: 45px;
         font-weight: 700;
-        color: $white;
+        color: $theme-color-primary;
         line-height: 1;
         margin-top: -5px;
         position: relative;
@@ -105,45 +111,6 @@
 }
 /*------ counter up end ------*/
 
-// vertical grid 
-.vertical-line {
-    position: relative;
-    .grid {
-        top: 0;
-        height: 100%;
-        position: absolute;
-        width: 1px;
-        background-color: rgba($paragraph-light, 0.1%);
-
-        &:nth-child(1) {
-            left: 10%;
-        }
-        &:nth-child(2) {
-            left: 20%;
-        }
-        &:nth-child(3) {
-            left: 30%;
-        }
-        &:nth-child(4) {
-            left: 40%;
-        }
-        &:nth-child(5) {
-            left: 50%;
-        }
-        &:nth-child(6) {
-            left: 60%;
-        }
-        &:nth-child(7) {
-            left: 70%;
-        }
-        &:nth-child(8) {
-            left: 80%;
-        }
-        &:nth-child(9) {
-            left: 90%;
-        }
-    }
-}
 
 //lazy load image
 .v-lazy-image {

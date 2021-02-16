@@ -87,7 +87,7 @@
         width: 100%;
         position: fixed;
         z-index: 999;
-        background-color: transparent;
+        background-color: #333333;
         &.vue-fixed-header--isFixed {
             background-color: #0c0c0c;
             box-shadow: 0 0 12px 1px rgba(0, 0, 0, 0.3);

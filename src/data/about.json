@@ -2,45 +2,39 @@
     "about": {
         "sectionTitle": "About Me",
         "sectionTitleWaterText": "About Me",
-        "aboutMe": "Hye, I'm Erik Jhonson I'm residing in this beautiful world. I create websites and mobile apps with great UX and UI design.I have done work with big companie  sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam tellusaodio tincidunt auctor a ornare odio. maiores itaque dolores distinctio, quisquam fugiat harum deleniti? Sint assumendaVeritatis unde laboriosam aspernatur vitae, architecto dolorum illum cupiditate laborum."
+        "aboutMe": " I'm residing in this beautiful world. I create websites and mobile apps with great UX and UI design. After many years in charge of communication, digital project management and web integration, I made a learning in frontend web development. I am now working on  innovative and exciting projetcs !"
     },
     "socials": [
-        {
-            "icon": "fa fa-facebook",
-            "link": "https://www.facebook.com/"
-        },
+
         {
             "icon": "fa fa-twitter",
-            "link": "https://www.twitter.com/"
+            "link": "https://twitter.com/CamilleRajon"
         },
         {
             "icon": "fa fa-linkedin",
-            "link": "https://www.linked-in.com/"
+            "link": "https://www.linkedin.com/in/camille-rajon-4182b484/"
         },
         {
             "icon": "fa fa-instagram",
-            "link": "https://www.instagram.com/"
+            "link": "https://www.instagram.com/camilia_boho/"
         }
     ],
     "aboutDetails": {
         "image": "/img/about/about.jpg",
-        "heading": "I'm Erik Jhonson, <br>UX/UI Designer & Developer",
+        "heading": "I'm Camille Rajon, <br> Web Developer",
         "infoList": [
             {
                 "label": "Name",
-                "info": "Erik Jhonson"
+                "info": "Camille Rajon"
             },
             {
                 "label": "Email",
-                "info": "example@gmail.com"
+                "info": "camillerajon@gmail.com"
             },
+        
             {
-                "label": "Skype",
-                "info": "abcxyz"
-            },
-            {
-                "label": "Website",
-                "info": "example.com"
+                "label": "Github",
+                "info": "https://github.com/Camillerajon"
             },
             {
                 "label": "Job",
@@ -48,15 +42,12 @@
             },
             {
                 "label": "Phone",
-                "info": "(123)4567890"
+                "info": "(+33)770025487"
             },
-            {
-                "label": "Address",
-                "info": "Inox Box 1546"
-            },
+           
             {
                 "label": "Nationality",
-                "info": "Australian"
+                "info": "French"
             }
         ]
     }
