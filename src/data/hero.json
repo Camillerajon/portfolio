@@ -1,7 +1,7 @@
 {
     "hero": {
         "subTitle": "Hi, I'm <span>Camille RAJON</span>",
-        "title": "Frontend web Designer, UI/UX Designer",
+        "title": "Frontend web Designer",
         "bgImg": "/img/hero/world.png",
         "image": "/img/hero/hero-thumb.png"
     }

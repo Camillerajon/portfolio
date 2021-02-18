@@ -15,17 +15,18 @@
                         <div class="about-us__content text-center">
                             <p>{{ data.about.aboutMe }}</p>
                             <div class="signature">
-                                <img src="/img/bg/signature.png" alt="signature">
+                                <img src="/img/bg/masignature.png" alt="signature">
                             </div>
                             <div class="social-link">
                                 <a :href="social.link" target="_blank" v-for="social in data.socials" :key="social.id">
                                     <i :class="social.icon"></i>
                                 </a>
                             </div>
-                            <button class="download-btn">Download <span>Resume</span></button>
+                            <a class="download-btn" href="/cv/resume_rajon_camille.pdf" download> Download resume</a>
+                            <a class="download-btn" href="/cv/cv_rajon_camille.pdf" download> Téléchargez le CV</a>
                         </div>
                     </div>
-                </div>
+                </div> 
             </div>
         </div>
     </section>

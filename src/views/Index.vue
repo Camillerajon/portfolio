@@ -7,15 +7,9 @@
 
         <AboutMe />
 
-        <PortfolioGallery />
+        <PortfolioGallery /> 
 
         <Service />
-
-        <Funfact />
-
-        <Testimonial />
-
-        <BlogSection />
 
         <Footer />
 
