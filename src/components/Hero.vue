@@ -44,7 +44,7 @@
             color: $theme-color-primary;
             max-width: 570px;
             float: right;
-            // res
+        
             @media #{$md-device}{
                 max-width: 330px;
                 padding-top: 75px;
@@ -58,22 +58,38 @@
             }
 
             &--subtitle {
-                font-size: 24px;
+                font-size: 40px;
                 font-weight: 700;
                 margin-bottom: 30px;
                 font-family: $heading-font;
                 span {
                     color: $white;
                 }
+                 animation: type 2s steps(19) ;
+                 overflow: hidden;
+                 white-space:nowrap;
+                 border-right: 3px solid $white;
+            @keyframes type {
+                0%{
+                    width: 0ch;
+                }
+                100%{
+                    width: 19ch;
+                }
+            }
                 // res
                 @media #{$sm-device}{
                     margin-bottom: 15px;
                 }
             }
             &--title {
-                font-size: 48px;
+                font-size: 50px;
                 font-weight: 700;
                 font-family: $heading-font;
+                animation: pulse;
+                animation-delay: 2s;
+                animation-duration: 2s;
+                
                 // res
                 @media #{$md-device, $sm-device}{
                     font-size: 36px;

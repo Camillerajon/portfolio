@@ -38,14 +38,14 @@
                 transform: translateY(-50%);
             }
             a {
-                color: $white;
+                color: $theme-color-primary;
                 &:hover {
-                    color: $theme-color-primary;
+                    color: $white;
                 }
             }
         }
         p {
-            font-size: 13px;
+            font-size: 20px;
             padding-left: 40px;
         }
     }
@@ -61,6 +61,7 @@
 }
 // portfolio gallery css
 .portfolio-area {
+    background-color: $theme-color-secondary;
     .row {
         @media #{$md-device, $sm-device}{
                 margin-top: -40px;

@@ -28,10 +28,11 @@
             </div>
         </div>
 
-        <div class="google-map section-padding pb-0">
+        <div class="google-map section-padding">
             <div class="container">
                 <GoogleMap />
             </div>
+
         </div>
 
         <ContactUs />

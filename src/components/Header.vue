@@ -21,14 +21,7 @@
                                 </li>
                                 <li>
                                     <router-link to="/project">PROJECT</router-link>
-                                    <ul class="submenu">
-                                        <li>
-                                            <router-link to="/project">Project</router-link>
-                                        </li>
-                                        <li>
-                                            <router-link to="/project-details">Project Details</router-link>
-                                        </li>
-                                    </ul>
+                                    
                                 </li>
                                 <li>
                                     <router-link to="/blog">BLOG</router-link>

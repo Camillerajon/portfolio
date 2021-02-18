@@ -10,7 +10,7 @@
                 </div>
             </div>
             <div class="row align-items-center mbn-50">
-                <div class="col-lg-3 col-sm-6" v-for="portfolio in data.portfolio.portfolioGallery.slice(0, 8)" :key="portfolio.id">
+                <div class="col-lg-3 col-sm-6" v-for="portfolio in data.portfolio.portfolioGallery.slice(0,8)" :key="portfolio.id">
                     <PortfolioItem :portfolio="portfolio" />
                 </div>
             </div>
