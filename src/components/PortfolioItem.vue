@@ -4,9 +4,6 @@
             <a v-bind:href="portfolio.link">
                 <v-lazy-image :src="portfolio.image" alt="portfolio image" />
             </a>
-              <a v-bind:href="portfolio.link">
-                <v-lazy-image :src="portfolio.image" alt="portfolio image" />
-            </a>
         </div>
         <div class="portfolio-item__content">
             <h4 class="portfolio-title">
