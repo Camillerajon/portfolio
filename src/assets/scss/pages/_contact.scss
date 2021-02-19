@@ -3,20 +3,45 @@
 .google-map{
     background-color: $theme-color-secondary;
     padding-bottom: 80px;
+    animation: pulse;
+    animation-duration: 2s;
 }
 .vue-map-container {
     height: 400px;
-    width: 45%;
+    width: 50%;
+    display: flex;
+    text-align: center;
 }
+.google-map-area{
+    display: flex;
+    align-items: center;
+
+}
+@media only screen and (max-width:680px){
+    .google-map-area{
+        flex-direction: column;
+    }
+    .vue-map-container{
+        width: 100%;
+    }
+    .contact-info{
+        width: 100%;
+        padding-top: 20px;
+    }
+}
+
+
 
 // contact info scss
 .contact-info {
+    width: 50%;
+    animation: pulse;
+    animation-duration: 2s;
     &__list {
         color: $theme-color-primary;
         display: flex;
-        align-items: right;
+        align-items: center;
         margin-bottom: 10px;
-        padding-left: 55%;
         justify-content: center;
         i {
             font-size: 30px;

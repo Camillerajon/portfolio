@@ -23,6 +23,8 @@ $theme-color-7: #46a3da;
 $theme-color-8: #ff6c3a;
 $theme-color-dark: darken($theme-color-primary, 15%);
 $theme-color-light: lighten($theme-color-primary, 15%);
+$theme-color-darkbis: darken($theme-color-secondary, 15%);
+$theme-color-lightbis: lighten($theme-color-secondary, 15%);
 $bdr-color: #ebebeb;
 $bg-dark: #161616;
 $bg-light: #181818;

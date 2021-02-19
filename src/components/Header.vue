@@ -24,15 +24,7 @@
                                     
                                 </li>
                                 <li>
-                                    <router-link to="/blog">BLOG</router-link>
-                                    <ul class="submenu">
-                                        <li>
-                                            <router-link to="/blog">Blog</router-link>
-                                        </li>
-                                        <li>
-                                            <router-link to="/blog-details">Blog Details</router-link>
-                                        </li>
-                                    </ul>
+                                    <router-link to="/reference">REFERENCE</router-link>
                                 </li>
                                 <li>
                                     <router-link to="/contact">CONTACT</router-link>

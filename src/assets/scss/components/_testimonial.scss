@@ -1,6 +1,7 @@
 .testimonial {
     &-desc {
-        color: $white;
+        color: $theme-color-secondary;
+        font-size: 25px;
     }
     &-inner {
         max-width: 750px;
@@ -27,14 +28,16 @@
                 }
             }
             &-name {
-                color: $white;
+                color: $theme-color-secondary;
                 font-weight: 700;
                 padding-bottom: 5px;
+                font-size: 20px;
+                
             }
             &-desig {
-                color: $paragraph-light;
+                color: $theme-color-darkbis;
                 display: inline-block;
-                font-size: 14px;
+                font-size: 15px;
                 margin-top: 5px;
             }
         }
