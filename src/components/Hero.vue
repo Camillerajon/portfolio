@@ -99,6 +99,7 @@ export default {
       // res
       @media #{$sm-device} {
         margin-bottom: 15px;
+        font-size:25px;
       }
     }
     &--title {

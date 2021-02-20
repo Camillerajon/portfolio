@@ -11,7 +11,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
-                    <form class="contact-form">
+                    <form class="contact-form" name="contact" method="POST" data-netlify="true">
                         <div class="row">
                             <div class="col-12">
                                 <input name="name" type="text" placeholder="Your Name">
@@ -26,7 +26,7 @@
                                 <textarea name="message" placeholder="Your Message"></textarea>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-default">Send Message</button>
+                                <button type="submit" class="btn btn-default">Send Message</button>
                             </div>
                         </div>
                     </form>

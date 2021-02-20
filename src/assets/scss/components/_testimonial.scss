@@ -1,3 +1,7 @@
+.testimonial-active{
+    min-height: 50vh;
+}
+
 .testimonial {
     &-desc {
         color: $theme-color-secondary;

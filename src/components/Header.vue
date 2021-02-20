@@ -20,11 +20,11 @@
                                     <router-link to="/about">ABOUT ME</router-link>
                                 </li>
                                 <li>
-                                    <router-link to="/project">PROJECT</router-link>
+                                    <router-link to="/project">PROJECTS</router-link>
                                     
                                 </li>
                                 <li>
-                                    <router-link to="/reference">REFERENCE</router-link>
+                                    <router-link to="/reference">REFERENCES</router-link>
                                 </li>
                                 <li>
                                     <router-link to="/contact">CONTACT</router-link>
