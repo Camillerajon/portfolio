@@ -4,13 +4,7 @@
       <div class="row align-items-center">
         <div class="col-xl-6 col-lg-6 col-md-6">
           <div class="hero__content">
-<<<<<<< HEAD
             <h5 class="hero__content--subtitle" v-html="data.hero.subTitle">{{ data.hero.subTitle }}</h5>
-=======
-            <h5 class="hero__content--subtitle" v-html="data.hero.subTitle">
-              {{ data.hero.subTitle }}
-            </h5>
->>>>>>> b3cd7de73acd33669ed994369a0f2241f2e7ff80
             <h1 class="hero__content--title">
               {{ data.hero.title }}
             </h1>
@@ -19,25 +13,10 @@
         <div class="col-xl-6 col-lg-6 col-md-6">
           <div class="hero__thumb">
             <div class="hero__thumb--one">
-<<<<<<< HEAD
               <v-lazy-image :src="data.hero.bgImg" class="img-fluid rotateWorld" alt="image" />
             </div>
             <div class="hero__thumb--two">
               <v-lazy-image :src="data.hero.image" class="img-fluid" alt="image" />
-=======
-             <v-lazy-image
-                :src="data.hero.bgImg"
-                class="img-fluid rotateWorld"
-                alt="image"
-              />
-            </div>
-            <div class="hero__thumb--two">
-              <v-lazy-image
-                :src="data.hero.image"
-                class="img-fluid"
-                alt="image"
-              />
->>>>>>> b3cd7de73acd33669ed994369a0f2241f2e7ff80
             </div>
           </div>
         </div>
@@ -65,7 +44,6 @@ export default {
     color: $theme-color-primary;
     max-width: 570px;
     float: right;
-<<<<<<< HEAD
 
     @media #{$md-device} {
       max-width: 330px;
@@ -79,21 +57,6 @@ export default {
       padding-top: 130px;
     }
 
-=======
-
-    @media #{$md-device} {
-      max-width: 330px;
-      padding-top: 75px;
-    }
-    @media #{$sm-device} {
-      max-width: 472px;
-      margin: auto;
-      float: none;
-      text-align: center;
-      padding-top: 130px;
-    }
-
->>>>>>> b3cd7de73acd33669ed994369a0f2241f2e7ff80
     &--subtitle {
       font-size: 40px;
       font-weight: 700;
@@ -102,7 +65,6 @@ export default {
       span {
         color: $white;
       }
-<<<<<<< HEAD
       animation: type 2s steps(19);
       overflow: hidden;
       white-space: nowrap;
@@ -114,45 +76,15 @@ export default {
         100% {
           width: 19ch;
         }
-=======
-      animation: type 2.5s steps(19), blink 0.75s step-end infinite;
-      overflow: hidden;
-      white-space: nowrap;
-      border-right: 4px solid $white;
-      @keyframes type {
-        0% {
-          width: 0ch;
-        }
-        100% {
-          width: 19ch;
-        }
-      }
-      @keyframes blink {
-        from,
-        to {
-          border-color: transparent;
-        }
-        50% {
-          border-color: $white;
-        }
->>>>>>> b3cd7de73acd33669ed994369a0f2241f2e7ff80
       }
       // res
       @media #{$sm-device} {
         margin-bottom: 15px;
-<<<<<<< HEAD
         font-size: 25px;
       }
     }
     &--title {
       font-size: 50px;
-=======
-        font-size:25px;
-      }
-    }
-    &--title {
-      font-size: 48px;
->>>>>>> b3cd7de73acd33669ed994369a0f2241f2e7ff80
       font-weight: 700;
       font-family: $heading-font;
       animation: pulse;
@@ -186,14 +118,7 @@ export default {
     }
     &--two {
       position: relative;
-<<<<<<< HEAD
     }
   }
-=======
-
-    }
-  }
-  
->>>>>>> b3cd7de73acd33669ed994369a0f2241f2e7ff80
 }
 </style>
