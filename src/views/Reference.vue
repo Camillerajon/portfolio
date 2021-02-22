@@ -9,8 +9,8 @@
                     <div class="col">
                         <div class="breadcrumb-wrap text-center">
                             <div class="section-title">
-                                <span class="water-text">Blog Details</span>
-                                <h1 class="title">Blog Details</h1>
+                                <span class="water-text">References</span>
+                                <h2 class="title">References</h2>
                             </div>
                             <nav aria-label="breadcrumb">
                                 <ul class="breadcrumb">
@@ -18,7 +18,7 @@
                                         <router-link to="/">Home</router-link>
                                     </li>
                                     <li class="breadcrumb-item active" aria-current="page">
-                                        Blog Details
+                                       References
                                     </li>
                                 </ul>
                             </nav>
@@ -28,7 +28,7 @@
             </div>
         </div>
 
-        <BlogDetailsWrapper />
+        <Testimonial />
 
         <Footer />
 
@@ -41,20 +41,20 @@
 
 <script>
     import Header from '@/components/Header';
-    import BlogDetailsWrapper from '@/components/BlogDetailsWrapper';
     import Footer from '@/components/Footer';
     import OffCanvasMobileMenu from '@/components/OffCanvasMobileMenu';
     import BackToTop from '@/components/BackToTop';
+import Testimonial from '../components/Testimonial.vue';
     export default {
         components: {
             Header,
-            BlogDetailsWrapper,
+            Testimonial,
             Footer,
             OffCanvasMobileMenu,
             BackToTop
         },
         metaInfo: {
-            title: 'Blog Details',
+            title: 'All references',
             htmlAttrs: {
                 lang: 'en',
                 amp: true

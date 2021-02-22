@@ -1,6 +1,7 @@
 .portfolio-item {
     &__thumb {
         position: relative;
+        transition: transform 400ms ease;
         img {
             width: 100%;
         }
@@ -12,7 +13,6 @@
             content: '';
             margin: 10px;
             position: absolute;
-            background-color: rgba($black, 0.5);
             pointer-events: none;
             opacity: 0;
             visibility: hidden;
@@ -51,10 +51,11 @@
     }
     &:hover {
        .portfolio-item__thumb {
+        transform: scale(1.1);
            &:before {
                opacity: 1;
                visibility: visible;
-               transform: scale(1);
+            
            }
        } 
     }

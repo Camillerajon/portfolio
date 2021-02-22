@@ -1,7 +1,7 @@
 <template>
     <div class="portfolio-item">
         <div class="portfolio-item__thumb">
-            <a v-bind:href="portfolio.link">
+            <a v-bind:href="portfolio.link" target="_blank">
                 <v-lazy-image :src="portfolio.image" alt="portfolio image" />
             </a>
               <a v-bind:href="portfolio.link">
@@ -10,7 +10,7 @@
         </div>
         <div class="portfolio-item__content">
             <h4 class="portfolio-title">
-                <a v-bind:href="portfolio.link">{{ portfolio.title }}</a>
+                <a v-bind:href="portfolio.link" target="_blank">{{ portfolio.title }} </a>
             </h4>
             <p>{{ portfolio.desc }}</p>
         </div>
