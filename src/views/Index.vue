@@ -49,7 +49,7 @@
             BackToTop
         },
         metaInfo: {
-            title: 'Neal Portfolio',
+            title: 'Camille Rajon',
             htmlAttrs: {
                 lang: 'en',
                 amp: true

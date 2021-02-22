@@ -36,8 +36,8 @@
                 swiperOption: {
                     slidesPerView : 1,
                     loop: true,
-                    speed: 1000,
-                    delay: 5000,
+                    speed: 2000,
+                    delay: 6000,
                     autoplay: true,
                     spaceBetween : 30,
                     pagination: {

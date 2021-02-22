@@ -8,27 +8,11 @@
                 <li>
                     <router-link to="/about">ABOUT ME</router-link>
                 </li>
-                <li class="menu-item-has-children">
+                <li>
                     <router-link to="/project">PROJECT</router-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <router-link to="/project">Project</router-link>
-                        </li>
-                        <li>
-                            <router-link to="/project-details">Project Details</router-link>
-                        </li>
-                    </ul>
                 </li>
-                <li class="menu-item-has-children">
-                    <router-link to="/blog">BLOG</router-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <router-link to="/blog">Blog</router-link>
-                        </li>
-                        <li>
-                            <router-link to="/blog-details">Blog Details</router-link>
-                        </li>
-                    </ul>
+                <li>
+                    <router-link to="/reference">REFERENCE</router-link>
                 </li>
                 <li>
                     <router-link to="/contact">CONTACT</router-link>

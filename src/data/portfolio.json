@@ -6,7 +6,7 @@
             {
                 "image": "/img/portfolio/portfolio_site.png",
                 "title": "Portfolio Website",
-                "link": "/project-details",
+                "link": "https://camillerajon.com",
                 "desc": "#vue.js"
             },
             {
@@ -18,38 +18,38 @@
             {
                 "image": "/img/portfolio/board_game.png",
                 "title": "Board game",
-                "link": "/project-details",
+                "link": "https://projet6camille.netlify.app/",
                 "desc": "#javascriptES6 #jquery"
             },
             {
                 "image": "/img/portfolio/film_festival.png",
                 "title": "Outdoor films festival",
-                "link": "/project-details",
+                "link": "https://filmsdepleinair.netlify.app",
                 "desc": "#bootstrap4 #css #html"
             },
-            {
+            {       
                 "image": "/img/portfolio/real_estate.png",
                 "title": "Luxury chalets rental real estate website",
-                "link": "/project-details",
+                "link": "https://github.com/Camillerajon/p2_chaletsetcaviar",
                 "desc": "#wordress #html #css"
             },
           
             {
                 "image": "/img/portfolio/quotes_generator.png",
                 "title": "Quotes generator",
-                "link": "/project-details",
+                "link": "https://quotesgeneratorcr.netlify.app",
                 "desc": "#javascriptES6"
             },
             {
                 "image": "/img/portfolio/ird.png",
                 "title": "IRD website",
-                "link": "/project-details",
+                "link": "https://www.ird.fr/",
                 "desc": "#integration #drupal #ezpusblish #redesign"
             },
             {
                 "image": "/img/portfolio/ocemo.png",
                 "title": "Ocemo website",
-                "link": "/project-details",
+                "link": "http://www.ocemo.org/fr/",
                 "desc": "#redesign #integration #wordpress #css #html #contentstrategy"
             },
           

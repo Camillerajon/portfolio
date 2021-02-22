@@ -20,19 +20,11 @@
                                     <router-link to="/about">ABOUT ME</router-link>
                                 </li>
                                 <li>
-                                    <router-link to="/project">PROJECT</router-link>
+                                    <router-link to="/project">PROJECTS</router-link>
                                     
                                 </li>
                                 <li>
-                                    <router-link to="/blog">BLOG</router-link>
-                                    <ul class="submenu">
-                                        <li>
-                                            <router-link to="/blog">Blog</router-link>
-                                        </li>
-                                        <li>
-                                            <router-link to="/blog-details">Blog Details</router-link>
-                                        </li>
-                                    </ul>
+                                    <router-link to="/reference">REFERENCES</router-link>
                                 </li>
                                 <li>
                                     <router-link to="/contact">CONTACT</router-link>

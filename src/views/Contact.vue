@@ -32,7 +32,6 @@
             <div class="container">
                 <GoogleMap />
             </div>
-
         </div>
 
         <ContactUs />
@@ -64,7 +63,7 @@
             BackToTop
         },
         metaInfo: {
-            title: 'Contact Us',
+            title: 'Contact Me',
             htmlAttrs: {
                 lang: 'en',
                 amp: true

@@ -2,19 +2,19 @@
     "bgImage": "/img/bg/testimonial.png",
     "testimonials": [
         {
-            "desc": "I’ve been working with over 95 IT companies on more than 200 projects of our company, but Neal is one of the most impressive to me. Obviously this is best freelancer ever seen",
-            "author": "Peter Looks",
-            "designation": "Head Of Idea"
+            "desc": "Camille a activement participé à la refonte de l’internet et de l’intranet de notre institut. Elle a une bonne connaissance des projets de refonte de site web (UI/UX design, standards de communication (3WC), CMS (EZ publish/Drupal), peut créer des contenus innovants et maitrise des outils techniques (logiciels,  outils de test, de performance, tracking)",
+            "author": "Laurie Aude Darfeuille",
+            "designation": "Head Of communication team at IRD"
         },
         {
-            "desc": "I’ve been working with over 95 IT companies on more than 200 projects of our company, but Neal is one of the most impressive to me. Obviously this is best freelancer ever seen",
-            "author": "Jonathon",
-            "designation": "Head Of Marketing"
+            "desc": "J’ai accompagné Camille lors de sa formation ainsi que ses différents projets. Une personne très professionnelle et consciencieuse. Elle a su faire preuve de beaucoup de créativité, mais également d’une grande capacité d’adaptation.",
+            "author": "Christophe Gibelli",
+            "designation": "Freelance Frontend Developer"
         },
         {
-            "desc": "I’ve been working with over 95 IT companies on more than 200 projects of our company, but Neal is one of the most impressive to me. Obviously this is best freelancer ever seen",
-            "author": "Anamika",
-            "designation": "CEO of Maya"
+            "desc": "Pour avoir travaillé pendant un an et demi avec Camille, je la recommande fortement. Elle est sérieuse, vive, compétente et très motivée . Une chance à ne pas manquer!",
+            "author": "Pierre Massis",
+            "designation": "Head of OCEMO"
         }
     ]
 }

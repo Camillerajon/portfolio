@@ -10,7 +10,7 @@
                         <div class="breadcrumb-wrap text-center">
                             <div class="section-title">
                                 <span class="water-text">My Latest work</span>
-                                <h2 class="title">Latest Project</h2>
+                                <h2 class="title">Latest Projects</h2>
                             </div>
                             <nav aria-label="breadcrumb">
                                 <ul class="breadcrumb">

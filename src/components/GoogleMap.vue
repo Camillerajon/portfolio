@@ -6,22 +6,21 @@
       map-type-id="terrain"
     >
     </GmapMap>
-      <div class="contact-info">
-    <div class="contact-info__list address">
-      <i class="fa fa-home"></i>
-      <p>Marseille, France</p>
-    </div>
-    <div class="contact-info__list email">
-      <i class="fa fa-envelope"></i>
-      <a href="mailto:example@gmail.com">camillerajon@gmail.com</a>
-    </div>
-    <div class="contact-info__list phone">
-      <i class="fa fa-phone"></i>
-      <a href="tel:+00123456789">+(33)770025487</a>
+    <div class="contact-info">
+      <div class="contact-info__list address">
+        <i class="fa fa-home"></i>
+        <p>Marseille, France</p>
+      </div>
+      <div class="contact-info__list email">
+        <i class="fa fa-envelope"></i>
+        <a href="mailto:example@gmail.com">camillerajon@gmail.com</a>
+      </div>
+      <div class="contact-info__list phone">
+        <i class="fa fa-phone"></i>
+        <a href="tel:+00123456789">+(33)770025487</a>
+      </div>
     </div>
   </div>
-  </div>
-
 </template>
 
 <script>
