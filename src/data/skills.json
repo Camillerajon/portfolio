@@ -13,12 +13,25 @@
       },
       {
         "techonology": "JAVASCRIPT",
-        "progress": "85"
+        "progress": "75"
+      },
+      {
+        "techonology": "VUE.JS",
+        "progress": "60"
       },
       {
         "techonology": "WORDPRESS",
-        "progress": "90"
+        "progress": "70"
+      },
+      {
+        "techonology": "JQUERY",
+        "progress": "55"
+      },
+      {
+        "techonology": "BOOTSTRAP",
+        "progress": "65"
       }
+
     ]
   }
 }

@@ -58,33 +58,7 @@ export default {
 <style lang="scss">
 @import "../assets/scss/_variables.scss";
 
-.service-item {
-  color: $white;
-  &__icon {
-    width: 100%;
-    height: 60px;
-    line-height: 60px;
-    text-align: center;
-    color: $theme-color-primary;
-    font-size: 24px;
-    font-weight: 600;
-    font-family: $heading-font;
-  }
-  &__content {
-    .title {
-      font-family: $heading-font;
-      padding: 20px 0 10px;
-    }
-    .desc {
-      color: $paragraph-light;
-      font-size: 14px;
-    }
-  }
-}
-.service-author {
-  @media #{$md-device, $sm-device} {
-    text-align: center;
-    margin-top: 40px;
-  }
+.service-item__content{
+  padding-bottom: 70px;
 }
 </style>
