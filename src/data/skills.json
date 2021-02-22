@@ -1,0 +1,24 @@
+{
+  "skills": {
+    "sectionTitle": "My Skills",
+    "sectionTitleWaterText": "My Skills",
+    "details": [
+      {
+        "techonology": "HTML",
+        "progress": "80"
+      },
+      {
+        "techonology": "CSS",
+        "progress": "70"
+      },
+      {
+        "techonology": "JAVASCRIPT",
+        "progress": "85"
+      },
+      {
+        "techonology": "WORDPRESS",
+        "progress": "90"
+      }
+    ]
+  }
+}

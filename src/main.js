@@ -5,7 +5,11 @@ import router from './router'
 import VueMeta from 'vue-meta'
 import BackToTop from 'vue-backtotop'
 import { VLazyImagePlugin } from "v-lazy-image";
- 
+import ProgressBar from 'vue-simple-progress'
+import { BootstrapVue } from 'bootstrap-vue'
+
+Vue.use(BootstrapVue)
+Vue.use(ProgressBar)
 Vue.use(VLazyImagePlugin);
 Vue.use(BackToTop)
 Vue.use(VueAwesomeSwiper)
