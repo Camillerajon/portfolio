@@ -114,11 +114,17 @@
 
 //lazy load image
 .v-lazy-image {
+
     filter: blur(10px);
     transition: filter 0.7s;
     &-loaded {
         filter: blur(0);
     }
+}
+
+.img-fluid {
+    max-width: 60%;
+    height: auto;
 }
 
 
