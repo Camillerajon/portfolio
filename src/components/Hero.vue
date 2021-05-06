@@ -12,9 +12,7 @@
         </div>
         <div class="col-xl-6 col-lg-6 col-md-6">
           <div class="hero__thumb">
-            <div class="hero__thumb--one">
-              <v-lazy-image :src="data.hero.bgImg" class="img-fluid rotateWorld" alt="image" />
-            </div>
+        
             <div class="hero__thumb--two">
               <v-lazy-image :src="data.hero.image" class="img-fluid" alt="image" />
             </div>

@@ -28,6 +28,9 @@
                             <div class="col-12">
                                 <button type="submit" class="btn btn-default">Send Message</button>
                             </div>
+                            <div class="col-6">
+                              <div data-netlify-recaptcha="true"></div>
+                            </div>
                         </div>
                     </form>
                 </div>

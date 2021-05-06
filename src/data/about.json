@@ -17,6 +17,10 @@
         {
             "icon": "fa fa-instagram",
             "link": "https://www.instagram.com/camilia_boho/"
+        },
+        {
+            "icon": "fa fa-github",
+            "link": "https://github.com/Camillerajon"
         }
     ],
     "aboutDetails": {

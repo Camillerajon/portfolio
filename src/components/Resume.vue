@@ -7,6 +7,7 @@
                         <span class="water-text">{{ data.sectionTitleWaterText }}</span>
                         <h2 class="title">{{ data.sectionTitle }}</h2>
                     </div>
+    
                 </div>
             </div>
             <div class="row">

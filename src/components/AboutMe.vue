@@ -100,10 +100,10 @@
                 margin-top: 15px;
                 line-height: 1;
                 color: $theme-color-secondary;
-                span {
-                    color: $theme-color-primary;
-                    text-decoration: underline;
-                }
+                &:hover {
+                        color: $theme-color-primary;
+                    }
+                
             }
         }
     }
