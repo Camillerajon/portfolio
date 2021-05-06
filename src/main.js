@@ -13,10 +13,7 @@ Vue.use(ProgressBar)
 Vue.use(VLazyImagePlugin);
 Vue.use(BackToTop)
 Vue.use(VueAwesomeSwiper)
-Vue.use(VueMeta, {
-    // optional pluginOptions
-    refreshOnceOnNavigation: true
-})
+Vue.use(VueMeta)
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 import '../src/assets/css/font-awesome.min.css'
