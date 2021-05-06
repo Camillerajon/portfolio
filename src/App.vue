@@ -8,9 +8,9 @@
 
 <script>
     export default {
-        name: 'App',
+        name: 'Camille Rajon Portfolio',
         metaInfo: {
-        title: 'Default App Title',
+        title: 'Portfolio Camille Rajon',
         htmlAttrs: {
     meta: [
       { charset: 'utf-8' },
