@@ -34,8 +34,6 @@
             </div>
         </div>
 
-        <ContactUs />
-
         <OffCanvasMobileMenu />
 
         <Footer />

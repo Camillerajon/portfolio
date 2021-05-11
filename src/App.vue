@@ -8,13 +8,13 @@
 
 <script>
     export default {
-        name: 'Camille Rajon Portfolio',
+
         metaInfo: {
         title: 'Portfolio Camille Rajon',
         htmlAttrs: {
     meta: [
       { charset: 'utf-8' },
-      { name: 'description', content: 'Découvrez mon portfolio de développeur web' },
+      { name: 'description', content: 'Découvrez mon portfolio de développeur web frontend' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' }
     ]
   },

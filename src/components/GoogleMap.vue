@@ -11,13 +11,17 @@
         <i class="fa fa-home"></i>
         <p>Marseille, France</p>
       </div>
-      <div class="contact-info__list email">
-        <i class="fa fa-envelope"></i>
-        <a href="mailto:example@gmail.com">camillerajon@gmail.com</a>
-      </div>
-      <div class="contact-info__list phone">
+         <div class="contact-info__list phone">
         <i class="fa fa-phone"></i>
         <a href="tel:+00123456789">+(33)770025487</a>
+      </div>
+      <div class="contact-info__list linkedin">
+        <i class="fa fa-linkedin"></i>
+        <a href="https://www.linkedin.com/in/camille-rajon-4182b484/">Linkedin Profile</a>
+      </div>
+         <div class="contact-info__list email">
+        <i class="fa fa-envelope"></i>
+        <a href="mailto:example[AT]gmail[DOT]com">camillerajon@gmail.com</a>
       </div>
     </div>
   </div>
