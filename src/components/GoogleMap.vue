@@ -17,11 +17,11 @@
       </div>
       <div class="contact-info__list linkedin">
         <i class="fa fa-linkedin"></i>
-        <a href="https://www.linkedin.com/in/camille-rajon-4182b484/">Linkedin Profile</a>
+        <a href="https://www.linkedin.com/in/camille-rajon-4182b484/" target="_blank">Linkedin Profile</a>
       </div>
          <div class="contact-info__list email">
         <i class="fa fa-envelope"></i>
-        <a href="mailto:example[AT]gmail[DOT]com">camillerajon@gmail.com</a>
+        <a href="mailto:camillerajon@gmail.com" target="_blank">camillerajon@gmail.com</a>
       </div>
     </div>
   </div>
