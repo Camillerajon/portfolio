@@ -14,7 +14,7 @@
         htmlAttrs: {
     meta: [
       { charset: 'utf-8' },
-      { name: 'description', content: 'Découvrez mon portfolio de développeur web frontend' },
+      { name: 'description', content: 'Je m\'appelle Camille Rajon, venez découvrir mon portfolio de développeur web frontend' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' }
     ]
   },
